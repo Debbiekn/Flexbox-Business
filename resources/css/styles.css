@@ -108,7 +108,7 @@ a {
 }
 
 body {
-    background-image: url("/Applications/Codecademy/flexbox-business-site-starting/resources/css/images/debbie-screenshot-20230227-135955.jpg");
+    background-image: url("/resources/css/images/debbie-screenshot-20230227-135955.jpg");
     background-size: cover;
  
 }
@@ -117,7 +117,7 @@ img {
     display: flex;
     border: 3px solid #36013F;
 
-    background-image: url("resources/css/images/debbie-screenshot-20221202-144600.jpg");
+    background-image: url("/resources/css/images/debbie-screenshot-20221202-144600.jpg");
     width: 100%;
     height: auto; 
 
