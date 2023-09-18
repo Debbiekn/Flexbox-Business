@@ -65,7 +65,7 @@ nav {
 
 }
 
-.logo {
+body .logo {
     height: 55px;
     width: 55px;
     float: left;
@@ -109,6 +109,8 @@ a {
 
 body {
     background-image: url("resources/css/images/bamboowalkway.jpg");
+
+    
     background-size: cover;
  
 }
