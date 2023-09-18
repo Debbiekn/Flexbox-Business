@@ -108,7 +108,7 @@ a {
 }
 
 body {
-    background-image: url("/Applications/Codecademy/flexbox-business-site-starting/resources/css/images/bamboowalkway.jpg");
+    background-image: url("resources/css/images/bamboowalkway.jpg");
     background-size: cover;
  
 }
