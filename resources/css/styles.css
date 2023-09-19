@@ -1,9 +1,7 @@
-html {
+body, html {
     font-size: 18px;
-
     
-   
-
+    
 }
 
 
@@ -122,11 +120,7 @@ a {
     padding-top: 10px;
 }
 
-body {
-    background-image: url("resources/css/images/envirobkgd2.png");
-    background-size: cover;
- 
-}
+
 
 img {
     display: flex;
