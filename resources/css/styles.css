@@ -1,9 +1,7 @@
 html {
     font-size: 18px;
 
-    background-image: url("resources/css/images/envirobkgd2.png");
-
-    background-size: cover;
+    
    
 
 }
@@ -124,11 +122,11 @@ a {
     padding-top: 10px;
 }
 
-/*body {
-    background-image: url("/Applications/Codecademy/flexbox-business-site-starting/resources/css/images/bamboowalkway.jpg");
+body {
+    background-image: url("resources/css/images/envirobkgd2.png");
     background-size: cover;
  
-}*/
+}
 
 img {
     display: flex;
