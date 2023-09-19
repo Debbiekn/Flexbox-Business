@@ -1,9 +1,14 @@
-body, html {
+html {
     font-size: 18px;
-    background-image: url("../resources/css/images/envirobkgd2.png");
+
+    
+    
+}
+
+body {
+    background-image: url("./resources/css/images/envirobkgd2.png");
 
     background-size: cover;
-    
     
 }
 
